@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1065582583142",
+    "firebase_url": "https://iati-23bd5.firebaseio.com",
+    "project_id": "iati-23bd5",
+    "storage_bucket": "iati-23bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065582583142:android:12bbd574cab3675c593ca7",
+        "android_client_info": {
+          "package_name": "com.iatiapp.iati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065582583142-t4gd2rfmpl7p8mg1l27vg9j6riuvfeb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iatiapp.iati",
+            "certificate_hash": "1b7cfb44a65fc7c7bb7f0042cc254ec4feb7890d"
+          }
+        },
+        {
+          "client_id": "1065582583142-1g8sep7clnpkht110fhou300bhqnodsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBARfkexk-Ep4KnFVbkPPSc-EJD-6nhBjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065582583142-1g8sep7clnpkht110fhou300bhqnodsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065582583142-v92mjho0kpbebakdk5tr6fd6875tmc6j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iatiapp.iati",
+                "app_store_id": "1536165810"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
